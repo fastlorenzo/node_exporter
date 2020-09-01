@@ -25,3 +25,4 @@ crossbuild:
         - darwin/386
         - netbsd/amd64
         - netbsd/386
+        - freebsd/amd64
